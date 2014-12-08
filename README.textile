@@ -1,0 +1,1 @@
+Scrapes data about power grids from "OpenStreetMap":http://www.openstreetmap.org through extracts from "Geofabrik":http://download.geofabrik.de/osm
